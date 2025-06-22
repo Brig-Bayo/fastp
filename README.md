@@ -361,7 +361,7 @@ Also please cite fastp:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Contacts
 
 **Author:** Bright Boamah  
 **Email:** [brigbayo@icloud.com]  
